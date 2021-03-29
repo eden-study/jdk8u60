@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<config>
+    <source_groups>
+        <source_group_9f25fc54-5535-4470-8a78-93e9ce14b662>
+            <java_standard>8</java_standard>
+            <name>java</name>
+            <source_extensions>
+                <source_extension>.java</source_extension>
+            </source_extensions>
+            <source_paths>
+                <source_path>java</source_path>
+            </source_paths>
+            <status>enabled</status>
+            <type>Java Source Group</type>
+            <use_jre_system_library>1</use_jre_system_library>
+        </source_group_9f25fc54-5535-4470-8a78-93e9ce14b662>
+    </source_groups>
+    <version>8</version>
+</config>
